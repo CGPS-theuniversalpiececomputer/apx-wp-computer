@@ -40,13 +40,12 @@ widget:
     attachment: 
 ---
 
-## What is universal peace?
+## What universal peace?
 
-This is copy where I expound on what universal peace is, and how it relates to everything else.
+## How universal peace? 
 
-## What what does universal peace do? 
+## What universal peace?
 
-This is where I expound on how universal peace is the world piece computer process for managing world pieces.
 ## Some universal peace characteristics:
 
 {{< figure src="images/characterUP.png" >}}
